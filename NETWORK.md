@@ -1,10 +1,17 @@
-# Zion AI Lead Scoring
+# Zion AI Lead Scoring — Zion App Network
 
-Lead scoring app.
+Zion AI Lead Scoring — standalone AI lead scoring app. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) · [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder)
+- 🔗 Live app: [https://lead-scoring.ziontechgroup.com](https://lead-scoring.ziontechgroup.com)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring
+- [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — dynamic pricing experiments
+- [Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) — AI email marketing
+- [AI Tender Scout](https://github.com/Zion-support/ai-tender-scout) — public-sector bid discovery
+- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
